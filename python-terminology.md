@@ -51,3 +51,13 @@ If the rules of the language are not followed, there will be an error
 
 Debugging
 If the syntax of the program is correct but the program still doesn't function as intended, there is a bug in the program
+
+Control structures
+allows you to control which lines of code get executed when
+
+Conditional structures
+allows you to choose between sections of code
+
+Iteration structures
+allows you to repeat sections of code, often called loops, allowing the program to "loop back" to some line that was previously executed
+
